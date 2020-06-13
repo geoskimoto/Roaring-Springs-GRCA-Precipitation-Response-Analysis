@@ -1,6 +1,6 @@
 # Precipitation-Response-Analysis of Roaring Springs, Grand Canyon, AZ
 
-Objectives:
+##Objectives:
 
 •	Use pulses of water as a tracer much the same way as a traditional flourescent dye to determine temporal variation in response times in discharge and water temperature at Roaring Springs, Grand Canyon.
 
