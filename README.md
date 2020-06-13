@@ -8,9 +8,7 @@ Objectives:
 
 •	Determine response times of these pulses via cross-correlation through the North Kaibab Plateau to Roaring Springs.
 
-•	See if methodology can be used to also determine travel paths of pulses through major secondary porosity conduits.
-
-•	PRISM dataset consists of daily precip and surface temp values measured at 145 locations/pixels on the Kaibab Plateau. Run cross correlations using for loop for each location with the hydrograph data to see which locations correlate the best. Exploratory and doesn't provide great resolution, but might be able to inform future dye traces.
+•	See if methodology can be used to also determine travel paths of pulses through major secondary porosity conduits. PRISM dataset consists of daily precip and surface temp values measured at 145 locations/pixels on the Kaibab Plateau. Run cross correlations using for loop for each location with the hydrograph data to see which locations correlate the best. Exploratory and doesn't provide great resolution, but might be able to inform future dye traces.
 
 •	Perform descriptive analysis on hydrograph data checking for stationarity, autocorrelation, and partial autocorrelation.
 
