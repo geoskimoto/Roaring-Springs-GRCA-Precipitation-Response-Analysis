@@ -15,3 +15,5 @@
 •	Perform causality analysis to see what input signals (precipitation, surface temperature on Kaibab Plateau, snow depth and SWE, EVT, and soil moisture) granger cause the output signals (discharge and water temperature at RS).  Eventually, build Bayesian Causal Network to get a better handle on what variables control spring response. 
 
 •	Conduct Precipitation Reponse Modelling via a SARIMAX model and a recurrent artificial nueral network. Maybe limited by data or models maybe too complicated. If so, perform linear systems analysis or lumped parameter models. Purpose is to simulate response of spring and to determine conduit-to-fracture/matrix coupling and what variables play a role in the response of the spring.
+
+![Work Flow of Analysis](/workflow.png)
